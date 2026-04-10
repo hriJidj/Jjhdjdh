@@ -22,7 +22,7 @@ def SMARK():
 {G}𝗠𝗬 𝗡𝗔𝗠𝗘: SMARK
 {G}𝗧𝗛𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟: {Y}@tool_smark
 {G}𝗧𝗛𝗘 𝗧𝗢𝗢𝗟
-{G}𝗖𝗢𝗡𝗧𝗔𝗖𝗧: {Y}@SMARK001
+{G}𝗖𝗢𝗡𝗧𝗔𝗖𝗧: {Y}@SMARK8
 
 {C}•▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬{X}
 """
@@ -31,4 +31,4 @@ def SMARK():
 
     for ch in logo:
         print(ch, end='', flush=True)
-        time.sleep(0.005)
+        time.sleep(0.004)
